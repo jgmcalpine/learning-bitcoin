@@ -1,0 +1,1 @@
+Getting familiar with bitcoin RPC and querying the blockchain.

@@ -1,0 +1,1 @@
+The goal of this project is to write a simple wallet and use it to interact with a custom signet network provided by the administrator
